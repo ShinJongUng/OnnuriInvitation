@@ -56,8 +56,8 @@ const Info = () => {
           <Image src={logo}  align="center" alt="Picture of me" placeholder="blur" />
         </div>
         <Box align="center" sx={{mt: 4}} data-aos="fade-up">
-          <Button variant="outlined" sx={{ml: 2, mr: 2}} color="inherit" onClick={onShareKakaoClick}>카카오톡으로 공유하기</Button>
-          <Button variant="outlined" sx={{ml: 2, mr: 2}} color="inherit" onClick={handleCopyClipBoard}>초대 메시지 복사하기</Button>
+          <Button size="small" variant="outlined" sx={{mr: 2}} color="inherit" onClick={onShareKakaoClick}>카카오톡으로 공유하기</Button>
+          <Button size="small" variant="outlined" sx={{ml: 2}} color="inherit" onClick={handleCopyClipBoard}>초대 메시지 복사하기</Button>
         </Box>
         <Container sx={{mt:10}}></Container>
     </Container>
