@@ -23,4 +23,4 @@
 작업물은 [이 곳](https://onnuri.vercel.app/)에서 볼 수 있습니다.
 
 
-<img src='readme_image/ui_image.png'>
+<img src='readme_image/ui_image.png' width="400px">
